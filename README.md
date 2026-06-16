@@ -12,16 +12,23 @@
 
 ### 🚀 About Me
 
-I am a passionate Full-Stack Developer specializing in building scalable web applications and exploring the frontiers of AI and Data Science. With a deep foundation in JavaScript ecosystems and modern frontend frameworks, I also build and experiment with local AI architectures and automation using Python.
+I am a passionate Full-Stack Developer specializing in building scalable web applications and exploring the frontiers of AI and Data Science. With a deep foundation in JavaScript ecosystems and modern frontend frameworks, I bridge production-grade web systems with local and cloud-based AI architectures.
 
 - 📬 Reach me at: **jericrealubit@gmail.com**
 
 ---
 
-### 🧠 Featured Project: Local LLM Crash Course
-I actively experiment with localized artificial intelligence, open-source models, and data science workflow automation. 
+### 🧠 Featured Projects & AI Architectures
 
-* **[local-llm-crash-course](https://github.com/jericrealubit/local-llm-crash-course)**: A Python-driven repository designed to streamline setting up, running, and interacting with Large Language Models locally. Focused on privacy, efficiency, and hands-on integration without relying on external cloud APIs.
+#### 🌐 **WAAI Chat — Production RAG Chatbot**
+A live, production-ready Retrieval-Augmented Generation (RAG) pipeline designed for smart document processing and instant, context-aware answers.
+* **🔗 [Try the Live App](https://waai.au/chat)** 
+* **💻 [GitHub Repository](https://github.com/jericrealubit/ragchatbot)**
+* **Architecture Highlights:**
+  * **AI Framework:** LangChain-structured RAG pipeline for advanced PDF text-parsing and precise context retrieval.
+  * **LLM Engine:** Powered by the ultra-low-latency `llama-3.1-8b-instant` model hosted on Groq Cloud.
+  * **Interface & Hosting:** Built with Chainlit and containerized via Docker on Hugging Face Spaces to manage memory-heavy processes.
+  * **Edge Routing:** Mapped via Cloudflare Workers and embedded cleanly using a custom Next.js App Router layout on a personal domain wrapper.
 
 ---
 
